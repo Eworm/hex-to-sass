@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Transform hex to sass",
+        "command": "hex-to-sass:transform"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Hex-to-sass",
+          "submenu": [
+            {
+              "label": "Transform hex to sass",
+              "command": "hex-to-sass:transform"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
