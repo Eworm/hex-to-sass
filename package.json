@@ -1,21 +1,23 @@
 {
-    "name": "hex-to-sass",
-    "main": "./lib/hex-to-sass",
-    "version": "0.0.0",
-    "description": "Transform hex colors to unique sass variables",
-    "keywords": [
-        "Hex colors", "Sass variables", "BEM"
-    ],
-    "activationCommands": {
-        "atom-workspace": "hex-to-sass:transform"
-    },
-    "repository": "https://github.com/Eworm/hex-to-sass.git",
-    "bugs": {
-        "url": "https://github.com/Eworm/hex-to-sass/issues"
-    },
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "hex-to-sass",
+  "main": "./lib/hex-to-sass",
+  "version": "0.1.0",
+  "description": "Transform hex colors to unique sass variables",
+  "keywords": [
+    "Hex colors",
+    "Sass variables",
+    "BEM"
+  ],
+  "activationCommands": {
+    "atom-workspace": "hex-to-sass:transform"
+  },
+  "repository": "https://github.com/Eworm/hex-to-sass.git",
+  "bugs": {
+    "url": "https://github.com/Eworm/hex-to-sass/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
