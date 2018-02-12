@@ -1,7 +1,7 @@
 {
   "name": "hex-to-sass",
   "main": "./lib/hex-to-sass",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Transform hex colors to unique sass variables",
   "keywords": [
     "Hex colors",
